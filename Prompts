@@ -1,0 +1,9 @@
+1. Grid to be 100mm away:
+  Check if the grid is placed exactly 100mm away from the outer boundary of the car lamp (e.g., headlamp). 
+  Measure from the farthest edge of the lamp to the nearest grid line on all sides. 
+  Let me know if the offset is correct or if it needs adjustment. 
+  Highlight any side that is not exactly 100mm apart.
+
+######################################################################################################################################
+
+2. dim not in ()
